@@ -1,6 +1,6 @@
 {
   "name": "conventional-changelog-playground",
-  "version": "0.0.5-0",
+  "version": "0.0.5-1",
   "description": "Conventional changelog playground",
   "scripts": {
     "commit": "git-cz",
