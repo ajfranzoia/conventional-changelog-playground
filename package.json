@@ -1,0 +1,26 @@
+{
+  "name": "conventional-changelog-playground",
+  "version": "0.0.2",
+  "description": "Conventional changelog playground",
+  "scripts": {
+    "commit": "git-cz",
+    "github-release": "conventional-github-releaser -p angular -r 0",
+    "postinstall": "ln -sf $PWD/node_modules/angular-precommit/index.js .git/hooks/commit-msg",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "npm run changelog:update && git add CHANGELOG.md",
+    "changelog:update": "conventional-changelog -p angular -i CHANGELOG.md -s"
+  },
+  "dependencies": {
+    "cz-conventional-changelog": "^2.0.0"
+  },
+  "devDependencies": {
+    "angular-precommit": "^1.0.3",
+    "conventional-changelog-cli": "^1.3.1",
+    "cz-conventional-changelog": "^2.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
