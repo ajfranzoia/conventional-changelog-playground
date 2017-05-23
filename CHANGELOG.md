@@ -1,3 +1,13 @@
+<a name="0.0.5-2"></a>
+## [0.0.5-2](https://github.com/ajfranzoia/conventional-changelog-playground/compare/v0.0.5-1...v0.0.5-2) (2017-05-23)
+
+
+### Features
+
+* add c.txt ([7a99bee](https://github.com/ajfranzoia/conventional-changelog-playground/commit/7a99bee))
+
+
+
 <a name="0.0.5-1"></a>
 ## [0.0.5-1](https://github.com/ajfranzoia/conventional-changelog-playground/compare/v0.0.5-0...v0.0.5-1) (2017-05-23)
 
