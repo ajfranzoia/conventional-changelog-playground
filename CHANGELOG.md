@@ -1,3 +1,13 @@
+<a name="0.1.2-0"></a>
+## [0.1.2-0](https://github.com/ajfranzoia/conventional-changelog-playground/compare/v0.1.1...v0.1.2-0) (2017-05-23)
+
+
+### Bug Fixes
+
+* update package ([c7703f7](https://github.com/ajfranzoia/conventional-changelog-playground/commit/c7703f7))
+
+
+
 <a name="0.1.1"></a>
 ## [0.1.1](https://github.com/ajfranzoia/conventional-changelog-playground/compare/v0.1.0...v0.1.1) (2017-05-23)
 
