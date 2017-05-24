@@ -1,3 +1,8 @@
+<a name="0.1.3"></a>
+## [0.1.3](https://github.com/ajfranzoia/conventional-changelog-playground/compare/v0.1.2...v0.1.3) (2017-05-24)
+
+
+
 <a name="0.1.2"></a>
 ## [0.1.2](https://github.com/ajfranzoia/conventional-changelog-playground/compare/v0.1.2-0...v0.1.2) (2017-05-24)
 
