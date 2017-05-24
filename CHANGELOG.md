@@ -1,3 +1,20 @@
+<a name="0.1.2"></a>
+## [0.1.2](https://github.com/ajfranzoia/conventional-changelog-playground/compare/v0.1.2-0...v0.1.2) (2017-05-24)
+
+
+### Bug Fixes
+
+* [[TNRE-3444]](https://artear.atlassian.net//browse/TNRE-undefined)
+update ([7fcd5c8](https://github.com/ajfranzoia/conventional-changelog-playground/commit/7fcd5c8))
+
+
+### Features
+
+* [[TNRE-1111]](https://artear.atlassian.net//browse/TNRE-undefined)
+sample github code ([d217889](https://github.com/ajfranzoia/conventional-changelog-playground/commit/d217889))
+
+
+
 <a name="Unreleased"></a>
 # [Unreleased](https://github.com/ajfranzoia/conventional-changelog-playground/compare/v0.1.2-0...7fcd5c8) (2017-05-24)
 
