@@ -7,8 +7,8 @@
     "github-release": "conventional-github-releaser -p angular -r 0",
     "postinstall": "ln -sf $PWD/node_modules/angular-precommit/index.js .git/hooks/commit-msg",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "npm run changelog:update && git add CHANGELOG.md",
-    "postversion": "git push --follow-tags && conventional-github-releaser -p angular -r 0",
+    "version1": "npm run changelog:update && git add CHANGELOG.md",
+    "postversion1": "git push --follow-tags && conventional-github-releaser -p angular -r 0",
     "changelog:update": "conventional-changelog -p artear -i CHANGELOG.md -s"
   },
   "dependencies": {
