@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "version": "npm run changelog:update && git add CHANGELOG.md",
     "postversion": "git push --follow-tags && conventional-github-releaser -p angular -r 0",
-    "changelog:update": "conventional-changelog -p angular -i CHANGELOG.md -s"
+    "changelog:update": "conventional-changelog -p artear -i CHANGELOG.md -s"
   },
   "dependencies": {
     "cz-conventional-changelog": "^2.0.0"
@@ -23,5 +23,6 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  }
+  },
+  "jiraUrl": "https://artear.atlassian.net/"
 }
