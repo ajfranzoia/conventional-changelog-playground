@@ -1,3 +1,13 @@
+<a name="1.0.3"></a>
+## [1.0.3](https://github.com/ajfranzoia/conventional-changelog-playground/compare/v1.0.2...v1.0.3) (2017-06-05)
+
+
+### Features
+
+* update package ([1a3d697](https://github.com/ajfranzoia/conventional-changelog-playground/commit/1a3d697))
+
+
+
 <a name="1.0.2"></a>
 ## [1.0.2](https://github.com/ajfranzoia/conventional-changelog-playground/compare/v1.0.1...v1.0.2) (2017-05-24)
 
