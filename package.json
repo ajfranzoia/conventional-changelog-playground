@@ -8,8 +8,8 @@
     "postinstall": "ln -sf $PWD/node_modules/angular-precommit/index.js .git/hooks/commit-msg",
     "test": "echo \"Error: no test specified\" && exit 1",
     "version": "npm run changelog:update && git add CHANGELOG.md",
-    "postversion1": "git push --follow-tags && conventional-github-releaser -p angular",
-    "changelog:update": "conventional-changelog -p artear -i CHANGELOG.md -s"
+    "postversion": "git push --follow-tags && conventional-github-releaser -p angular",
+    "changelog:update": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "dependencies": {
     "cz-conventional-changelog": "^2.0.0"
